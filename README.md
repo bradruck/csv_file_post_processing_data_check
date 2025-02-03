@@ -47,7 +47,7 @@ Primary Users:    <ul>
                   </ul>
 
 Lead Customer:    <ul>
-                  <li>Zack Batt (zack.batt@oracle.com)
+                  <li>
                   </ul>
 
 Lead Developer:   <ul>
