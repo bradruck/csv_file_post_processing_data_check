@@ -28,22 +28,22 @@ Required modules: <ul>
                   </ul>
 
 Location:         <ul>
-                  <li>Scheduled on ActiveBatch: //onlinemodelingdev/Jobs, Folders & Plans/Report/DE_PP/, with a file trigger
-                  <li>Deployed:  //prd-use1a-pr-34-ci-operations-01/home/bradley.ruck/Projects/data_enablement_pp/
+                  <li>Scheduled on ActiveBatch: 
+                  <li>Deployed:  
                   </ul>
 
 Source Code:      <ul>
-                  <li>https://gitlab.oracledatacloud.com/odc-operations/DE_Turn_PP/
+                  <li>https:
                   </ul>
 
 LogFile Location: <ul>
-                  <li>//zfs1/Operations_limited/Data_Enablement/Data_License_Turn/Logs_PP/
+                  <li>
                   </ul>
 
 **Contact Information -**
 
 Primary Users:    <ul>
-                  <li>Data Enablement
+                  <li>
                   </ul>
 
 Lead Customer:    <ul>
@@ -51,7 +51,7 @@ Lead Customer:    <ul>
                   </ul>
 
 Lead Developer:   <ul>
-                  <li>Bradley Ruck (bradley.ruck@oracle.com)
+                  <li>Bradley Ruck
                   </ul>
 
 Date Launched:    <ul>
